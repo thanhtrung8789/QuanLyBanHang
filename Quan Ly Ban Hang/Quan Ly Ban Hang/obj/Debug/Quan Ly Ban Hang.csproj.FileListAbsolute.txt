@@ -1,0 +1,28 @@
+C:\Users\Dong\Documents\Visual Studio 2017\Projects\Quan Ly Ban Hang\Quan Ly Ban Hang\bin\Debug\Quan Ly Ban Hang.exe.config
+C:\Users\Dong\Documents\Visual Studio 2017\Projects\Quan Ly Ban Hang\Quan Ly Ban Hang\bin\Debug\Quan Ly Ban Hang.exe
+C:\Users\Dong\Documents\Visual Studio 2017\Projects\Quan Ly Ban Hang\Quan Ly Ban Hang\bin\Debug\Quan Ly Ban Hang.pdb
+C:\Users\Dong\Documents\Visual Studio 2017\Projects\Quan Ly Ban Hang\Quan Ly Ban Hang\obj\Debug\Quan Ly Ban Hang.csprojResolveAssemblyReference.cache
+C:\Users\Dong\Documents\Visual Studio 2017\Projects\Quan Ly Ban Hang\Quan Ly Ban Hang\obj\Debug\Quan_Ly_Ban_Hang.Properties.Resources.resources
+C:\Users\Dong\Documents\Visual Studio 2017\Projects\Quan Ly Ban Hang\Quan Ly Ban Hang\obj\Debug\Quan Ly Ban Hang.csproj.GenerateResource.Cache
+C:\Users\Dong\Documents\Visual Studio 2017\Projects\Quan Ly Ban Hang\Quan Ly Ban Hang\obj\Debug\Quan Ly Ban Hang.exe
+C:\Users\Dong\Documents\Visual Studio 2017\Projects\Quan Ly Ban Hang\Quan Ly Ban Hang\obj\Debug\Quan Ly Ban Hang.pdb
+C:\Users\Dong\OneDrive - Hanoi University of Science and Technology\TOAN TIN K61\THUC HANH\DO AN 1\QUAN LY BAN HANG\VISUAL\New\Quan Ly Ban Hang\Quan Ly Ban Hang\bin\Debug\Quan Ly Ban Hang.exe.config
+C:\Users\Dong\OneDrive - Hanoi University of Science and Technology\TOAN TIN K61\THUC HANH\DO AN 1\QUAN LY BAN HANG\VISUAL\New\Quan Ly Ban Hang\Quan Ly Ban Hang\bin\Debug\Quan Ly Ban Hang.exe
+C:\Users\Dong\OneDrive - Hanoi University of Science and Technology\TOAN TIN K61\THUC HANH\DO AN 1\QUAN LY BAN HANG\VISUAL\New\Quan Ly Ban Hang\Quan Ly Ban Hang\bin\Debug\Quan Ly Ban Hang.pdb
+C:\Users\Dong\OneDrive - Hanoi University of Science and Technology\TOAN TIN K61\THUC HANH\DO AN 1\QUAN LY BAN HANG\VISUAL\New\Quan Ly Ban Hang\Quan Ly Ban Hang\obj\Debug\Quan Ly Ban Hang.csprojResolveAssemblyReference.cache
+C:\Users\Dong\OneDrive - Hanoi University of Science and Technology\TOAN TIN K61\THUC HANH\DO AN 1\QUAN LY BAN HANG\VISUAL\New\Quan Ly Ban Hang\Quan Ly Ban Hang\obj\Debug\Quan_Ly_Ban_Hang.Properties.Resources.resources
+C:\Users\Dong\OneDrive - Hanoi University of Science and Technology\TOAN TIN K61\THUC HANH\DO AN 1\QUAN LY BAN HANG\VISUAL\New\Quan Ly Ban Hang\Quan Ly Ban Hang\obj\Debug\Quan Ly Ban Hang.csproj.GenerateResource.Cache
+C:\Users\Dong\OneDrive - Hanoi University of Science and Technology\TOAN TIN K61\THUC HANH\DO AN 1\QUAN LY BAN HANG\VISUAL\New\Quan Ly Ban Hang\Quan Ly Ban Hang\obj\Debug\Quan Ly Ban Hang.exe
+C:\Users\Dong\OneDrive - Hanoi University of Science and Technology\TOAN TIN K61\THUC HANH\DO AN 1\QUAN LY BAN HANG\VISUAL\New\Quan Ly Ban Hang\Quan Ly Ban Hang\obj\Debug\Quan Ly Ban Hang.pdb
+C:\Users\Dong\OneDrive - Hanoi University of Science and Technology\TOAN TIN K61\THUC HANH\DO AN 1\QUAN LY BAN HANG\VISUAL\New\Quan Ly Ban Hang\Quan Ly Ban Hang\obj\Debug\Quan_Ly_Ban_Hang.FAccount.resources
+C:\Users\Dong\OneDrive - Hanoi University of Science and Technology\TOAN TIN K61\THUC HANH\DO AN 1\QUAN LY BAN HANG\VISUAL\New\Quan Ly Ban Hang\Quan Ly Ban Hang\obj\Debug\Quan_Ly_Ban_Hang.FBuy.resources
+C:\Users\Dong\OneDrive - Hanoi University of Science and Technology\TOAN TIN K61\THUC HANH\DO AN 1\QUAN LY BAN HANG\VISUAL\New\Quan Ly Ban Hang\Quan Ly Ban Hang\obj\Debug\Quan_Ly_Ban_Hang.FMain.resources
+C:\Users\Dong\OneDrive - Hanoi University of Science and Technology\TOAN TIN K61\THUC HANH\DO AN 1\QUAN LY BAN HANG\VISUAL\New\Quan Ly Ban Hang\Quan Ly Ban Hang\obj\Debug\Quan_Ly_Ban_Hang.FSell.resources
+C:\Users\Dong\OneDrive - Hanoi University of Science and Technology\TOAN TIN K61\THUC HANH\DO AN 1\QUAN LY BAN HANG\VISUAL\New\Quan Ly Ban Hang\Quan Ly Ban Hang\obj\Debug\Quan_Ly_Ban_Hang.FLogin.resources
+C:\Users\Dong\OneDrive - Hanoi University of Science and Technology\TOAN TIN K61\THUC HANH\DO AN 1\QUAN LY BAN HANG\VISUAL\New\Quan Ly Ban Hang\Quan Ly Ban Hang\obj\Debug\Quan_Ly_Ban_Hang.FAdmin.resources
+C:\Users\Dong\OneDrive - Hanoi University of Science and Technology\TOAN TIN K61\THUC HANH\DO AN 1\QUAN LY BAN HANG\VISUAL\New\Quan Ly Ban Hang\Quan Ly Ban Hang\obj\Debug\Quan_Ly_Ban_Hang.FEdit_HH_NH.resources
+C:\Users\Dong\OneDrive - Hanoi University of Science and Technology\TOAN TIN K61\THUC HANH\DO AN 1\QUAN LY BAN HANG\VISUAL\New\Quan Ly Ban Hang\Quan Ly Ban Hang\obj\Debug\Quan_Ly_Ban_Hang.FEdit_KH_NV_NCC.resources
+C:\Users\Dong\OneDrive - Hanoi University of Science and Technology\TOAN TIN K61\THUC HANH\DO AN 1\QUAN LY BAN HANG\VISUAL\New\Quan Ly Ban Hang\Quan Ly Ban Hang\obj\Debug\Quan_Ly_Ban_Hang.FEdit_TK.resources
+C:\Users\Dong\OneDrive - Hanoi University of Science and Technology\TOAN TIN K61\THUC HANH\DO AN 1\QUAN LY BAN HANG\VISUAL\New\Quan Ly Ban Hang\Quan Ly Ban Hang\obj\Debug\Quan_Ly_Ban_Hang.FFind.resources
+C:\Users\Dong\OneDrive - Hanoi University of Science and Technology\TOAN TIN K61\THUC HANH\DO AN 1\QUAN LY BAN HANG\VISUAL\New\Quan Ly Ban Hang\Quan Ly Ban Hang\obj\Debug\Quan_Ly_Ban_Hang.FAbout.resources
+C:\Users\Dong\OneDrive - Hanoi University of Science and Technology\TOAN TIN K61\THUC HANH\DO AN 1\QUAN LY BAN HANG\VISUAL\New\Quan Ly Ban Hang\Quan Ly Ban Hang\obj\Debug\Quan_Ly_Ban_Hang.FProfile.resources
